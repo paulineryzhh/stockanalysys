@@ -17,11 +17,12 @@
 
 ## Скриншоты
 
-<img width="1911" alt="Страница 1 - обзор запасов" src="https://github.com/user-attachments/assets/d582adf8-2fbe-4444-91da-664af43c46d1" />
+<img width="1912" height="1071" alt="image" src="https://github.com/user-attachments/assets/e70542de-aeae-4e71-a48b-bde765f0f1d2" />
+
 
 *Обзор: структура запасов, приоритеты пополнения, распределение по складам*
 
-<img width="1887" alt="Страница 2 - детализация" src="https://github.com/user-attachments/assets/80c6c2c2-97ca-41c9-af1f-398627ff159d" />
+<img width="1899" height="1056" alt="image" src="https://github.com/user-attachments/assets/9382b803-0287-4a38-bed9-976e773d4b1e" />
 
 *Детализация: срезы по бренду, категории и складу, топ-листы с условным форматированием*
 
